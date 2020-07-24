@@ -1,5 +1,7 @@
 # CSS Minifier
 
+![Screenshot](pictures/file.png "File shown")
+
 ## Table of contents
 * [Overview](#overview)
 * [Examples](#examples)
@@ -13,13 +15,10 @@ This program takes in input from the *original.css* file. This file is then mini
 
 ## Examples
 
-> Prompt from the terminal
+> Recording of the program
 
-![Screenshot](pictures/prompt.png "Enter if you want a saved file")
+![Video](.pictures/.css-minifier.gif "Program in action!")
 
-> The minified file
-
-![Screenshot](pictures/file.png "File shown")
 
 ## Technologies
 - **C++11**
