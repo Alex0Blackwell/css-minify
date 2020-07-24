@@ -1,6 +1,6 @@
 # CSS Minifier
 
-![Screenshot](pictures/file.png "File shown")
+![Screenshot](.pictures/file.png)
 
 ## Table of contents
 * [Overview](#overview)
@@ -17,7 +17,7 @@ This program takes in input from the *original.css* file. This file is then mini
 
 > Recording of the program
 
-![Video](.pictures/.css-minifier.gif "Program in action!")
+![Video](.pictures/css-minifier.gif "Program in action!")
 
 
 ## Technologies
